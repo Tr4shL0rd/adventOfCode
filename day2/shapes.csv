@@ -1,0 +1,8 @@
+user,symbol,name,score
+opponent,A,Rock,1
+opponent,B,Paper,2
+opponent,C,Scissors,3
+
+player,X,Rock,1
+player,Y,Paper,2
+player,Z,Scissors,3
