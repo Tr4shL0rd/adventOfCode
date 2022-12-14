@@ -1,3 +1,4 @@
+#https://engineeringfordatascience.com/posts/advent_of_code_2022/#day-2-rock---paper--scissors-
 from typing import Callable
 
 SHAPE_SCORE = {"A": 1, "B": 2, "C": 3, "X": 1, "Y": 2, "Z": 3}
